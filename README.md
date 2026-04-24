@@ -1,7 +1,7 @@
 # ⚡ Predictive Paradox — Electricity Demand Forecasting
 
 > **Can a computer predict how much electricity Bangladesh will need in the next hour?**
-> This project answers that question — with 98% accuracy.
+> This project answers that question — with 98.17% accuracy.
 
 ---
 
@@ -54,7 +54,7 @@ A **LightGBM** model (a fast, powerful decision-tree algorithm) was trained on t
 ## 📈 Result
 
 ```
-Test MAPE ≈ 2.04%
+Test MAPE ≈ 1.87%
 ```
 
 This means the model's predictions were **off by only 2% on average** — on data it had never seen.
